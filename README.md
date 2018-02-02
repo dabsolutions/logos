@@ -9,7 +9,7 @@ Logos for Dab Solutions and all of the Projects can be found here.
 
 
 
-![Dab Solutions](Dab%20Solutions/Transparent/DSLogo-TRP-M250.png)
+![Dab Solutions](Dab%20Solutions/Transparent/DSLogo-TRP-S250.png)
 
 ![DabCity](DabCity/DC-CrownLogo/DabCity_CrownLogo-md.png)
 
